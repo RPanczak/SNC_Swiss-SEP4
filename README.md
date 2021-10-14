@@ -1,9 +1,9 @@
-# SNC_Swiss-SEP3
+# SNC_Swiss-SEP4
 
 Swiss-SEP3
 Development and validation of third release of Swiss-SEP index.
 
-Extending work on `SNC_Swiss-SEP2` with more up to date and more data and shifting towards OS software.
+Extending work on `SNC_Swiss-SEP2` (and 3) with more up to date and more data and shifting towards OS software.
 
 Based on:
 
