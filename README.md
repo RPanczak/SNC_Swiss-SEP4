@@ -11,4 +11,7 @@ Extending the update of:
 > Panczak, R, Berlin, C, Voorpostel, M, Zwahlen, M, & Egger, M (2021) The Swiss-SEP neighbourhood index of socioeconomic position: Update. doi: [10.31219/osf.io/py9tz](https://doi.org/10.31219/osf.io/py9tz)
 
 
-(CC BY-NC-SA 4.0)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
