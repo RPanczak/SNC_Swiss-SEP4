@@ -1,6 +1,6 @@
 ## Swiss-SEP 4.0 - development and validation of next release of the Swiss-SEP index.
 
-Extending work on `SNC_Swiss-SEP2` (and 3!) with more up to date and more data and shifting towards OS software.
+Extending work on [SNC_Swiss-SEP2](https://github.com/RPanczak/SNC_Swiss-SEP2) (and 3!) with more up to date and more data and shifting towards OS software.
 
 Based on original work:
 
