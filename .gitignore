@@ -41,4 +41,8 @@
 
 # open data but quite large stuff
 data-raw/GWR/
+data-raw/GWS/
+data/geo/
+geo/
+admin/
 
